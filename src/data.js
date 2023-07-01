@@ -1,0 +1,58 @@
+export const data = [
+    {
+        id: 1,
+        deskImage: "images/desktop/image-deep-earth.jpg",
+        mobileImage: "images/mobile/image-deep-earth.jpg",
+        text1: "Deep",
+        text2: "earth",
+    },
+    {
+        id: 2,
+        deskImage: "images/desktop/image-night-arcade.jpg",
+        mobileImage: "images/mobile/image-night-arcade.jpg",
+        text1: "Night",
+        text2: "arcade",
+    },
+    {
+        id: 3,
+        deskImage: "images/desktop/image-soccer-team.jpg",
+        mobileImage: "images/mobile/image-soccer-team.jpg",
+        text1: "Soccer",
+        text2: " Team vr",
+    },
+    {
+        id: 4,
+        deskImage: "images/desktop/image-grid.jpg",
+        mobileImage: "images/mobile/image-grid.jpg",
+        text1: "The",
+        text2: "grid",
+    },
+    {
+        id: 5,
+        deskImage: "images/desktop/image-from-above.jpg",
+        mobileImage: "images/mobile/image-from-above.jpg",
+        text1: "From up",
+        text2: "above vr",
+    },
+    {
+        id: 6,
+        deskImage: "images/desktop/image-pocket-borealis.jpg",
+        mobileImage: "images/mobile/image-pocket-borealis.jpg",
+        text1: "Pocket",
+        text2: "borealis",
+    },
+    {
+        id: 7,
+        deskImage: "images/desktop/image-curiosity.jpg",
+        mobileImage: "images/mobile/image-curiosity.jpg",
+        text1: "The",
+        text2: "curiosity",
+    },
+    {
+        id: 8,
+        deskImage: "images/desktop/image-fisheye.jpg",
+        mobileImage: "images/mobile/image-fisheye.jpg",
+        text1: "Make it",
+        text2: "fisheye",
+    },
+];
